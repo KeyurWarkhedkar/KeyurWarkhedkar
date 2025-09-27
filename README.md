@@ -15,7 +15,7 @@ Backend Developer | Spring Boot | Hibernate | MySQL | Docker | Building Scalable
 
 ## 🔥 Projects
 
-### 1. [E-Commerce Backend](https://github.com/KeyurWarkhedkar/E-commerce)  
+### 1. [E-Commerce Backend](https://github.com/KeyurWarkhedkar/E-Commerce-Backend-Rest-Api)  
 - Spring Boot REST APIs with MySQL database  
 - JWT Authentication, Product & Order management  
 - Dockerized for easy deployment
