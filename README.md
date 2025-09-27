@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Keyur 👋
 
-<!--
-**KeyurWarkhedkar/KeyurWarkhedkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Spring Boot | Hibernate | MySQL | Docker | Building Scalable and Maintainable APIs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages:** Java, SQL
+- **Frameworks:** Spring, Spring Boot, Hibernate
+- **Databases:** MySQL, PostgreSQL
+- **Tools & DevOps:** Docker, Git, Postman
+- **Other:** REST APIs, API Authentication
+
+---
+
+## 🔥 Projects
+
+### 1. [E-Commerce Backend](https://github.com/KeyurWarkhedkar/E-commerce)  
+- Spring Boot REST APIs with MySQL database  
+- JWT Authentication, Product & Order management  
+- Dockerized for easy deployment
+
+---
+
+## 📫 Contact Me
+- Email: keyurwarkhedkar@gmail.com  
+- LinkedIn: [linkedin.com/in/keyurwarkhedkar](https://linkedin.com/in/keyurwarkhedkar)    
+
+---
+
+## 📈 GitHub Stats
+![Keyur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeyurWarkhedkar&show_icons=true&theme=radical)
+
+---
+
+> “Clean code always looks like it was written by someone who cares.” 🐱‍💻
