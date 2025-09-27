@@ -1,6 +1,6 @@
 # Hi, I'm Keyur 👋
 
-Backend Developer | Spring Boot | Hibernate | MySQL | Docker | Building Scalable and Maintainable APIs
+I’m a backend developer passionate about building scalable and maintainable applications using Java, Spring Boot, Hibernate, and MySQL. I also work with Docker to containerize applications and streamline deployment.
 
 ---
 
