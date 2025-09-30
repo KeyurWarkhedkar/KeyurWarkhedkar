@@ -1,21 +1,24 @@
 # Hi, I'm Keyur 👋
 
-I’m a backend developer passionate about building scalable and maintainable applications using Java, Spring Boot, Hibernate, and MySQL. I also work with Docker to containerize applications and streamline deployment.
+Backend developer building scalable and concurrent systems with Java and Spring Boot.
 
----
+## 🛠 Technical Skills
 
-## 🛠 Skills
-- **Languages:** Java, SQL
-- **Frameworks:** Spring, Spring Boot, Hibernate
-- **Databases:** MySQL, PostgreSQL
-- **Tools & DevOps:** Docker, Git, Postman
-- **Other:** REST APIs, API Authentication
+**Languages:** Java, SQL, JavaScript
 
----
+**Backend:** Spring Boot, Spring Data JPA, Hibernate, Spring WebSocket
 
-## 🔥 Projects
+**Databases:** MySQL, PostgreSQL
 
-### 1. [Real-Time Competitive Quiz Platform](https://github.com/KeyurWarkhedkar/mpl)
+**Message Queues:** RabbitMQ
+
+**Testing & Performance:** JUnit 5, Mockito, K6 Load Testing
+
+**Tools:** Maven, Git, Docker, Postman
+
+## 🔥 Featured Projects
+
+### 1. Real-Time Competitive Quiz Platform
 A multi-team quiz platform demonstrating concurrent system design and real-time communication patterns.
 
 **Technical Highlights:**
@@ -27,22 +30,40 @@ A multi-team quiz platform demonstrating concurrent system design and real-time 
 
 **Tech Stack:** Spring Boot | WebSocket (STOMP) | MySQL | JPA | K6
 
-### 2. [E-Commerce Backend](https://github.com/KeyurWarkhedkar/E-Commerce-Backend-Rest-Api)  
-- Spring Boot REST APIs with MySQL database  
-- JWT Authentication, Product & Order management  
-- Dockerized for easy deployment
+**[View Project →](https://github.com/KeyurWarkhedkar/mpl)**
+
+### 2. Campus Counseling Appointment System
+Concurrent slot booking system with async notification service.
+
+**Technical Highlights:**
+- Race condition prevention in slot reservation
+- RabbitMQ for asynchronous email notifications
+- Transactional integrity with pessimistic locking
+- Load tested for concurrent booking scenarios
+
+**Tech Stack:** Spring Boot | RabbitMQ | PostgreSQL | JavaMailSender
+
+**[View Project →](link-to-repo)**
+
+### 3. E-Commerce Backend API
+RESTful API with authentication and order management.
+
+**Tech Stack:** Spring Boot | JWT | MySQL | Docker
+
+**[View Project →](https://github.com/KeyurWarkhedkar/E-Commerce-Backend-Rest-Api)**
+
+## 📊 Problem Solving
+
+**300+ DSA problems solved** across competitive programming platforms
+
+Strong foundation in algorithms, data structures, and optimization techniques
+
+## 📫 Let's Connect
+
+**Email:** keyurwarkhedkar@gmail.com  
+**LinkedIn:** [linkedin.com/in/keyurwarkhedkar](https://linkedin.com/in/keyurwarkhedkar)  
+**Location:** Pune, India
 
 ---
 
-## 📫 Contact Me
-- Email: keyurwarkhedkar@gmail.com  
-- LinkedIn: [linkedin.com/in/keyurwarkhedkar](https://linkedin.com/in/keyurwarkhedkar)    
-
----
-
-## 📈 GitHub Stats
-![Keyur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeyurWarkhedkar&show_icons=true&theme=radical)
-
----
-
-> “Clean code always looks like it was written by someone who cares.” 🐱‍💻
+💡 Open to backend development opportunities | Building production-grade concurrent systems
