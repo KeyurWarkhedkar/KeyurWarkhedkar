@@ -15,7 +15,19 @@ I’m a backend developer passionate about building scalable and maintainable ap
 
 ## 🔥 Projects
 
-### 1. [E-Commerce Backend](https://github.com/KeyurWarkhedkar/E-Commerce-Backend-Rest-Api)  
+### 1. [Real-Time Competitive Quiz Platform](https://github.com/KeyurWarkhedkar/mpl)
+A multi-team quiz platform demonstrating concurrent system design and real-time communication patterns.
+
+**Technical Highlights:**
+- Thread-safe question assignment handling 280+ concurrent requests
+- Zero duplicate assignments under load (K6 validated)
+- Pessimistic locking with database constraints for race condition prevention
+- WebSocket-based real-time leaderboard broadcasting
+- Sub-120ms P95 response time under peak load
+
+**Tech Stack:** Spring Boot | WebSocket (STOMP) | MySQL | JPA | K6
+
+### 2. [E-Commerce Backend](https://github.com/KeyurWarkhedkar/E-Commerce-Backend-Rest-Api)  
 - Spring Boot REST APIs with MySQL database  
 - JWT Authentication, Product & Order management  
 - Dockerized for easy deployment
