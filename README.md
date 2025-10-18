@@ -43,7 +43,7 @@ Concurrent slot booking system with async notification service.
 
 **Tech Stack:** Spring Boot | RabbitMQ | PostgreSQL | JavaMailSender
 
-**[View Project →](link-to-repo)**
+**[View Project →](https://github.com/KeyurWarkhedkar/healio)**
 
 ### 3. E-Commerce Backend API
 RESTful API with authentication and order management.
