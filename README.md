@@ -18,7 +18,7 @@ Backend developer building scalable and concurrent systems with Java and Spring 
 
 ## 🔥 Featured Projects
 
-### 1. Real-Time Competitive Quiz Platform
+### 1. Math Premier League Portal
 A multi-team quiz platform demonstrating concurrent system design and real-time communication patterns.
 
 **Technical Highlights:**
