@@ -1,8 +1,8 @@
 # Hi, I'm Keyur 👋
 
-Backend developer building scalable and concurrent systems with Java and Spring Boot.
+I’m a backend developer who loves turning ideas into reliable and scalable services. I work primarily with **Spring Boot, JPA, Security, Docker, and Redis.** With strong problem-solving skills backed by 300+ LeetCode solutions, I constantly push myself to design smart and efficient backend workflows that improve user experience and system performance.
 
-## 🛠 Technical Skills
+# 🛠 Technical Skills
 
 ##### 🌱 **Spring Ecosystem**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -49,7 +49,9 @@ Backend developer building scalable and concurrent systems with Java and Spring 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🔥 Featured Projects
+---
+
+# 🔥 Featured Projects
 
 #### 1. Math Premier League Portal
 A competitive quiz system demonstrating concurrent system design, thread safety, and real-time communication patterns under heavy load conditions.
@@ -69,6 +71,8 @@ A competitive quiz system demonstrating concurrent system design, thread safety,
 **Tech Stack:** Spring Boot | WebSocket (STOMP) | MySQL | JPA | K6
 
 **[View Project →](https://github.com/KeyurWarkhedkar/mpl)**
+
+---
 
 #### 2. Healio — Smart Appointment & Counselling Platform
 
@@ -92,6 +96,8 @@ Developed with Spring Boot, RabbitMQ, Redis, and JWT-based authentication, it of
 **Tech Stack:** Spring Boot | RabbitMQ | MySQL | Redis | Docker | JWT
 
 **[View Project →](https://github.com/KeyurWarkhedkar/healio)**
+
+---
 
 #### 3. HackMates — Developer Collaboration & Team Discovery Platform
 A modern platform that helps developers and creators find teammates for hackathons, projects, events, and short paid gigs.
@@ -119,6 +125,8 @@ Users can create profiles highlighting their skills, interests, and experience, 
 
 **[View Project →](https://github.com/KeyurWarkhedkar/hackmates)**
 
+---
+
 #### 4. E-Commerce Backend API
 🛒 ShopSphere — E-Commerce REST API
 A production-grade backend demonstrating robust authentication, complex ORM mappings, and search with dynamic filtering, built as a foundational project in scalable API design.
@@ -141,7 +149,9 @@ A production-grade backend demonstrating robust authentication, complex ORM mapp
 
 **[View Project →](https://github.com/KeyurWarkhedkar/E-Commerce-Backend-Rest-Api)**
 
-## 📊 Problem Solving
+---
+
+# 📊 Problem Solving
 
 **300+ DSA problems solved** across competitive programming platforms
 
@@ -151,12 +161,15 @@ Visit my LeetCode profile:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/Keyur_Warkhedkar/)
 
+---
 
-## 📊 Language Stats
+# 📊 Language Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeyurWarkhedkar&layout=compact&theme=radical)
 
-## 📫 Let's Connect
+---
+
+# 📫 Let's Connect
 
 **Email:** keyurwarkhedkar@gmail.com  
 **LinkedIn:** [linkedin.com/in/keyurwarkhedkar](https://linkedin.com/in/keyurwarkhedkar)  
