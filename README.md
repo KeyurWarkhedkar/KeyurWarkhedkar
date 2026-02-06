@@ -1,6 +1,6 @@
 # Hi, I'm Keyur 👋
 
-I’m a backend developer who loves turning ideas into reliable and scalable services. I work primarily with **Spring Boot, JPA, Security, Docker, and Redis.** With strong problem-solving skills backed by 300+ LeetCode solutions, I constantly push myself to design smart and efficient backend workflows that improve user experience and system performance.
+I'm a backend developer who loves turning ideas into reliable and scalable services. I work primarily with **Spring Boot, JPA, Security, Docker, and Redis.** With strong problem-solving skills backed by 300+ LeetCode solutions, I constantly push myself to design smart and efficient backend workflows that improve user experience and system performance.
 
 # 🛠 Technical Skills
 
@@ -53,7 +53,32 @@ I’m a backend developer who loves turning ideas into reliable and scalable ser
 
 # 🔥 Featured Projects
 
-#### 1. Math Premier League Portal
+#### 1. API-Shield — High-Performance API Gateway Middleware
+A production-grade API gateway built to protect backend services from abuse, reduce external API costs through intelligent caching, and provide distributed rate limiting with real-time traffic monitoring.
+
+⚙️ Technical Highlights:
+
+⚡ 98.5% API Load Reduction — Prevented ~395 out of 400 external API calls through smart caching strategies
+
+🚦 Redis-Backed Distributed Rate Limiting using Token Bucket Algorithm for consistent throttling across instances
+
+📊 Hot Endpoint Detection with LRU Cache Eviction — Automatically identifies and caches frequently accessed endpoints
+
+🔥 15ms Median Latency for cached responses with 49ms P95 under concurrent load
+
+📈 Real-Time Metrics Endpoint exposing cache hit ratios, forwarded requests, and throttled traffic
+
+🧩 Filter Chain Architecture enabling modular traffic monitoring, caching, and rate limiting layers
+
+✅ JMeter Validated Performance — 87.5% cache hit ratio across 400 concurrent requests with zero inconsistencies
+
+**Tech Stack:** Spring Boot | Redis | Maven | JMeter
+
+**[View Project →](https://github.com/KeyurWarkhedkar/api-shield)**
+
+---
+
+#### 2. Math Premier League Portal
 A competitive quiz system demonstrating concurrent system design, thread safety, and real-time communication patterns under heavy load conditions.
 
 ⚙️ Technical Highlights:
@@ -74,7 +99,7 @@ A competitive quiz system demonstrating concurrent system design, thread safety,
 
 ---
 
-#### 2. Healio — Smart Appointment & Counselling Platform
+#### 3. Healio — Smart Appointment & Counselling Platform
 
 Healio is a full-stack healthcare counseling platform built to streamline appointment scheduling and communication between students and counselors.
 Developed with Spring Boot, RabbitMQ, Redis, and JWT-based authentication, it offers a secure, scalable, and event-driven backend for real-time and reliable interactions.
@@ -96,34 +121,6 @@ Developed with Spring Boot, RabbitMQ, Redis, and JWT-based authentication, it of
 **Tech Stack:** Spring Boot | RabbitMQ | MySQL | Redis | Docker | JWT
 
 **[View Project →](https://github.com/KeyurWarkhedkar/healio)**
-
----
-
-#### 3. HackMates — Developer Collaboration & Team Discovery Platform
-A modern platform that helps developers and creators find teammates for hackathons, projects, events, and short paid gigs.
-Users can create profiles highlighting their skills, interests, and experience, and get a personalized feed of relevant collaborators and opportunities — optimized for discovery and quick team formation.
-
-⚙️ Technical Highlights:
-
-🧩 Dual Authentication Flow with secure JWT and Google OAuth2 integration for seamless user onboarding
-
-💾 Spring Boot + Hibernate powered backend ensuring reliable persistence and modular architecture
-
-⚡ Concurrent Request Handling to maintain consistency and performance during simultaneous join and match operations
-
-⚡ Redis-backed Caching Layer for temporary OAuth data and quick lookups
-
-🧠 Skill & Interest Mapping Engine enabling personalized teammate and project recommendations
-
-🧱 Profile Completion Workflow guiding users to build meaningful, high-quality developer profiles
-
-🐳 Dockerized Deployment ensuring consistent runtime environments across development and production
-
-📊 Swagger Integration for structured API documentation and testing
-
-**Tech Stack:** Spring Boot | RabbitMQ | MySQL | Redis | Docker | JWT
-
-**[View Project →](https://github.com/KeyurWarkhedkar/hackmates)**
 
 ---
 
