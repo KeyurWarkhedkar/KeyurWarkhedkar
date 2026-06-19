@@ -1,76 +1,102 @@
 # Hi, I'm Keyur 👋
 
-I'm a backend developer who loves turning ideas into reliable and scalable services. I work primarily with **Spring Boot, JPA, Security, Docker, and Redis.** With strong problem-solving skills backed by 300+ LeetCode solutions, I constantly push myself to design smart and efficient backend workflows that improve user experience and system performance.
+Backend developer focused on **distributed systems, event-driven architecture, and production-grade APIs**. I build systems that handle concurrency, failure recovery, and scale — with a strong foundation in Spring Boot, AWS, and database internals. 330+ LeetCode problems. CGPA 9.79.
+
+---
 
 # 🛠 Technical Skills
 
-##### 🌱 **Spring Ecosystem**
+##### 🌱 Spring Ecosystem
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-##### 🗄️ **Databases And ORMs**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-##### 🔧 **DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[![Render](https://img.shields.io/badge/Render-46F3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
-[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-##### 🔄 **Message Brokers & Caching**
+##### ⚙️ Distributed Systems
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Architecture-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Saga Pattern](https://img.shields.io/badge/Saga_Pattern-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase FCM](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-##### 🧪 **Testing & Performance**
+##### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+##### ☁️ Cloud & DevOps
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-FF9900?style=for-the-badge&logo=amazonrds&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+##### 🧪 Testing & Performance
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge)
 ![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-##### 🔐 **Security & Authentication**
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-##### 🚀 **Tools**
+##### 🚀 Tools
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-##### 💻 *Languages*
+##### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 # 🔥 Featured Projects
 
-#### 1. API-Shield — High-Performance API Gateway Middleware
+#### 1. QueueX — Event-Driven Order Processing System ⭐ Flagship
+
+A distributed async order processing system across two Spring Boot microservices — implementing the saga pattern with compensating transactions, transactional outbox, at-least-once delivery via Amazon SQS, and idempotency at every layer. Deployed on AWS with CI/CD and live observability.
+
+⚙️ Technical Highlights:
+
+📬 **Saga Pattern with Compensating Transactions** — inventory reserved, payment attempted with exponential backoff retry; stock automatically restored on payment failure
+
+🔁 **Transactional Outbox Pattern** — events written atomically with business data, published reliably via scheduled poller with retry and dead-letter handling across 7 SQS queues
+
+🔐 **Idempotency at Every Layer** — blind insert + atomic status change guards every consumer against duplicate SQS redeliveries
+
+🚀 **CI/CD Pipeline** — push to main triggers GitHub Actions: Maven build → ECR image push → zero-downtime container redeploy on EC2 via SSH
+
+📊 **Grafana + Loki Observability** — structured JSON logs with MDC-based orderId propagation; full saga trace filterable by order across both services in Grafana Cloud
+
+⚡ **Load Tested** — 46.8 req/s · P95 82ms · 0% error rate under 100 concurrent users (K6)
+
+**Tech Stack:** Spring Boot | Amazon SQS | AWS EC2 | RDS MySQL | ECR | Docker | GitHub Actions | Grafana | Loki | K6
+
+**[View Project →](https://github.com/KeyurWarkhedkar/queue-x)**
+
+---
+
+#### 2. API-Shield — High-Performance API Gateway Middleware
+
 A production-grade API gateway built to protect backend services from abuse, reduce external API costs through intelligent caching, and provide distributed rate limiting with real-time traffic monitoring.
 
 ⚙️ Technical Highlights:
 
-⚡ 98.5% API Load Reduction — Prevented ~395 out of 400 external API calls through smart caching strategies
+⚡ **98.5% API Load Reduction** — prevented ~395 out of 400 external API calls through smart caching
 
-🚦 Redis-Backed Distributed Rate Limiting using Token Bucket Algorithm for consistent throttling across instances
+🚦 **Redis-Backed Distributed Rate Limiting** using token bucket algorithm for consistent throttling across instances
 
-📊 Hot Endpoint Detection with LRU Cache Eviction — Automatically identifies and caches frequently accessed endpoints
+📊 **Hot Endpoint Detection** with LRU cache eviction — automatically identifies and caches frequently accessed endpoints
 
-🔥 15ms Median Latency for cached responses with 49ms P95 under concurrent load
+🔥 **15ms Median Latency** for cached responses · 49ms P95 under concurrent load
 
-📈 Real-Time Metrics Endpoint exposing cache hit ratios, forwarded requests, and throttled traffic
-
-🧩 Filter Chain Architecture enabling modular traffic monitoring, caching, and rate limiting layers
-
-✅ JMeter Validated Performance — 87.5% cache hit ratio across 400 concurrent requests with zero inconsistencies
+✅ **JMeter Validated** — 87.5% cache hit ratio across 400 concurrent requests
 
 **Tech Stack:** Spring Boot | Redis | Maven | JMeter
 
@@ -78,45 +104,39 @@ A production-grade API gateway built to protect backend services from abuse, red
 
 ---
 
-#### 2. Math Premier League Portal
-A competitive quiz system demonstrating concurrent system design, thread safety, and real-time communication patterns under heavy load conditions.
+#### 3. Math Premier League — Concurrent Multi-Team Quiz Platform
+
+A competitive quiz system demonstrating concurrent system design, thread safety, and real-time communication under heavy load — with a focus on diagnosing and fixing race conditions rather than just avoiding them.
 
 ⚙️ Technical Highlights:
 
-🧵 Thread-Safe Question Assignment handling 280+ concurrent requests without conflicts
+🧵 **Race condition diagnosed deterministically** using Thread.sleep() with 2 concurrent threads — proved root cause as implicit S lock acquisition during MySQL FK constraint verification
 
-🧩 Zero Duplicate Assignments under load — validated through K6 performance testing
+🔒 **Pessimistic locking → atomic SQL update** — 78% throughput improvement and 33% latency reduction while maintaining 0 duplicates and 0 deadlocks
 
-🔒 Pessimistic Locking & Database Constraints ensuring race-condition prevention during quiz sessions
+📡 **WebSocket (STOMP) real-time leaderboard** — instant score broadcasting across all connected teams
 
-📡 WebSocket-Based Real-Time Leaderboard for instant score broadcasting across connected teams
-
-⚡ Sub-120ms P95 Response Time under peak concurrency load
+⚡ **250+ concurrent registrations** with 0 duplicate assignments (K6 validated)
 
 **Tech Stack:** Spring Boot | WebSocket (STOMP) | MySQL | JPA | K6
 
-**[View Project →](https://github.com/KeyurWarkhedkar/mpl)**
+**[View Project →](https://github.com/KeyurWarkhedkar/Math-Premier-League-Backend)**
 
 ---
 
-#### 3. Healio — Smart Appointment & Counselling Platform
+#### 4. Healio — Smart Appointment & Counselling Platform
 
-Healio is a full-stack healthcare counseling platform built to streamline appointment scheduling and communication between students and counselors.
-Developed with Spring Boot, RabbitMQ, Redis, and JWT-based authentication, it offers a secure, scalable, and event-driven backend for real-time and reliable interactions.
+Full-stack healthcare counseling platform with event-driven messaging, concurrency-safe booking, and secure OAuth2 authentication.
 
-🔧 Key Features
+⚙️ Technical Highlights:
 
-🧠 Optimistic Locking & Concurrency Control — Prevents double-booking during simultaneous slot updates.
+🧠 **Optimistic locking** preventing double-booking during simultaneous slot updates
 
-📬 RabbitMQ for Asynchronous Notifications — Delivers event-based messages like booking confirmations and cancellations without blocking the main workflow.
+📬 **RabbitMQ** async notifications — booking confirmations and cancellations without blocking the main flow
 
-🔐 JWT & OAuth2 Authentication — Secure login system with Google OAuth integration and stateless session handling.
+🔐 **JWT + Google OAuth2** with Spring Security filter chain
 
-⚡ Redis Integration — Used for temporary code storage and caching for faster authentication flows.
-
-🗂️ Role-Based Access — Separate dashboards and permissions for counselors and students.
-
-📊 Swagger API Docs — Enables easy API testing and collaboration.
+⚡ **Redis** for OTP storage and faster auth flows
 
 **Tech Stack:** Spring Boot | RabbitMQ | MySQL | Redis | Docker | JWT
 
@@ -124,37 +144,24 @@ Developed with Spring Boot, RabbitMQ, Redis, and JWT-based authentication, it of
 
 ---
 
-#### 4. E-Commerce Backend API
-🛒 ShopSphere — E-Commerce REST API
-A production-grade backend demonstrating robust authentication, complex ORM mappings, and search with dynamic filtering, built as a foundational project in scalable API design.
+# 💼 Experience
 
-⚙️ Technical Highlights:
+**Backend Developer Intern @ Valsco Technology** *(March 2026 – May 2026)*
+- Built a cron-based ETL pipeline to ingest and normalize court case data from multiple government APIs into Firebase Firestore with schema inconsistency handling and failure recovery
+- Designed notification system using Firebase Cloud Functions + FCM for real-time Android/iOS case update alerts
+- Developed backend workflow replicating National Green Tribunal case search flow — captcha retrieval, query orchestration, structured case extraction
 
-🔐 JWT-Based Authentication & Role-Based Access Control (RBAC) for secure login and authorization
-
-⚙️ Custom Exception Handling ensuring clean and consistent API error responses
-
-🧩 Complex Hibernate Mappings — One-to-Many, Many-to-Many, and cascading relationships across entities
-
-🔍 Dynamic Search with Criteria API supporting filters, pagination, and sorting
-
-🛍️ Cart & Order Management Modules with validation and transactional integrity
-
-📘 RESTful Design with Layered Architecture for maintainability and scalability
-
-**Tech Stack:** Spring Boot | JWT | MySQL | Docker | 
-
-**[View Project →](https://github.com/KeyurWarkhedkar/E-Commerce-Backend-Rest-Api)**
+**SDE Intern @ Ealth Technologies** *(January 2026 – February 2026)*
+- Eliminated Hibernate N+1 query issue using JOIN FETCH — reduced avg response time from ~180ms → ~100ms
+- Applied per-user API rate limiting via token-bucket algorithm; 87% of 100 requests correctly throttled at 5 req/sec (JMeter)
+- Moved OTP email sending to async post-commit — reduced failure response time by ~99%
+- Deployed Dockerized full-stack app on AWS EC2 with RDS, Redis, and HTTPS via Cloudflare
 
 ---
 
 # 📊 Problem Solving
 
-**300+ DSA problems solved** across competitive programming platforms
-
-Strong foundation in algorithms, data structures, and optimization techniques
-
-Visit my LeetCode profile: 
+**330+ DSA problems solved** — strong foundation in algorithms, data structures, and optimization
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/Keyur_Warkhedkar/)
 
@@ -168,11 +175,14 @@ Visit my LeetCode profile:
 
 # 📫 Let's Connect
 
-**Email:** keyurwarkhedkar@gmail.com  
-**LinkedIn:** [linkedin.com/in/keyurwarkhedkar](https://linkedin.com/in/keyurwarkhedkar)  
-**GitHub:** [github.com/KeyurWarkhedkar](https://github.com/KeyurWarkhedkar)  
+**Email:** keyurwarkhedkar@gmail.com
+
+**LinkedIn:** [linkedin.com/in/keyurwarkhedkar](https://linkedin.com/in/keyurwarkhedkar)
+
+**GitHub:** [github.com/KeyurWarkhedkar](https://github.com/KeyurWarkhedkar)
+
 **Location:** Pune, India
 
 ---
 
-💡 **Open to backend development opportunities** | Building production-grade concurrent systems
+💡 **Open to backend engineering opportunities** | Distributed systems · Spring Boot · AWS
